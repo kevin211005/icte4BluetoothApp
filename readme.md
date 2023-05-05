@@ -51,4 +51,9 @@ git push -u origin main
 https://github.com/innoveit/react-native-ble-manager
 # Demo Video 
 
+
+https://user-images.githubusercontent.com/86145579/236355902-4fee9705-6c5f-43ed-b959-3dbb0cc4b929.mp4
+
+
 # Log 
+![Screenshot 2023-05-04 171441](https://user-images.githubusercontent.com/86145579/236355880-a501dc88-43e4-4603-a60b-7a39a948e455.png)
